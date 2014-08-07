@@ -24,7 +24,6 @@
 //=======
     // 分之添加内容
 //>>>>>>> 分之测试
-    //huofuceshi
 }
 
 - (void)didReceiveMemoryWarning
