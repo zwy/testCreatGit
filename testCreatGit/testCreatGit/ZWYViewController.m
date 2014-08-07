@@ -19,6 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"update");
+    // 分之添加内容
 }
 
 - (void)didReceiveMemoryWarning
